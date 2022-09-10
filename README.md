@@ -4,6 +4,4 @@ Pruebas de Git para la BikoShcool
 hehe, to slooiiiiwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwww
 pruebas stage
 nuevos cambios
-asdasdasd
-asoajdaosdjasodj
 cambios push master
